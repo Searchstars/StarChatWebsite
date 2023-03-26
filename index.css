@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('fonts/Lato-Regular-15.ttf');
+}
+@font-face {
+    font-family: 'LatoBold';
+    src: url('fonts/Lato-Bold-7.ttf');
+}
+.bodyclass{
+    background-color: #1F2023;
+}
+.bold_text{
+    font-family: LatoBold;
+    color: white
+}
